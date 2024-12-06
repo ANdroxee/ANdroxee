@@ -5,23 +5,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Androxee.png" alt="Your Image Badge" />
 
-
-
-
-
-## 🌍 Public websites
-
-- <a href="">✨My resume</a> : still in development
-
-## 📝 Projects
-
-### Reusable projects:
-
-
-
-## 💻 skills
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub) ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
 ## 💫 About Me :
 - 🔭 I’m currently working on my Skills.
 - 📫 Email - anto.dongay123@gmail.com
